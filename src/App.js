@@ -4,7 +4,7 @@ import SideBar from "./SideBar";
 
 function App() {
     return (
-        <div className="flex bg-yellow-100 w-screen h-screen">
+        <div className="flex">
             <SideBar />
         </div>
     );
